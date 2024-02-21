@@ -1,0 +1,1143 @@
+[
+  {
+    "name": "Malibu Stacy Headquarters",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Reeducation Center",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "0,50",
+    "value": "1,50"
+  },
+  {
+    "name": "The Jazz Hole",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Apu's Apartment",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "0,50",
+    "value": "1,50"
+  },
+  {
+    "name": "Forgotten Grave",
+    "bonus": "3,75",
+    "characters": "1,00",
+    "boost": "",
+    "value": "4,75"
+  },
+  {
+    "name": "North Pole Station",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Open Air Stage",
+    "bonus": "",
+    "characters": "",
+    "boost": "1,00",
+    "value": "1,00"
+  },
+  {
+    "name": "Satellite Station",
+    "bonus": "4,00",
+    "characters": "",
+    "boost": "",
+    "value": "4,00"
+  },
+  {
+    "name": "Springfield Hyperstadium",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "0,50",
+    "value": "1,50"
+  },
+  {
+    "name": "The Hungry Hun",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Hairy Shearers",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "African Tree Resort",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Alcatraaaz's Mansion",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Battle Dome",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Capital City Capitol Building",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Cartoon Motel",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Chimp Refuge",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Coolsville",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Cracker Factory",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "0,50",
+    "value": "1,50"
+  },
+  {
+    "name": "Crocky Waters",
+    "bonus": "2,50",
+    "characters": "1,00",
+    "boost": "",
+    "value": "3,50"
+  },
+  {
+    "name": "Fiesta Terrace",
+    "bonus": "4,00",
+    "characters": "1,00",
+    "boost": "",
+    "value": "5,00"
+  },
+  {
+    "name": "Filthy Angels Orphanage",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Opera House",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Italian Villa",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Itchy's 70's Disco",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "It's A Wonderful Knife",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Juvenile Correction Facility",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Krusty's Drive-Thru Station",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Maison Derriere",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Manger",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Mt. Krustmore",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Nickel 'N' Dime Animation",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Norbert's Plane",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Planet Hype",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Poppa Wheelie's",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Powers House",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Preppers' Compound",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Radiant B.S. Station",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Radioactive Man Movie Scene",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Raoul's Penthouse",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Ray Gun",
+    "bonus": "3,75",
+    "characters": "",
+    "boost": "",
+    "value": "3,75"
+  },
+  {
+    "name": "Scandal-gate Hotel",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Ski Lift",
+    "bonus": "4,00",
+    "characters": "",
+    "boost": "0,50",
+    "value": "4,50"
+  },
+  {
+    "name": "Magic Academy Library",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Community Center",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Springfield Historical Society",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Springfield Museum",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Springfield Opry House",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "STEM Conference Hotel",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "St. Paul's Basilica",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Sungazer Tour Bus",
+    "bonus": "1,00",
+    "characters": "2,00",
+    "boost": "",
+    "value": "3,00"
+  },
+  {
+    "name": "Taylor House",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Temple Beth Springfield",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "The First Class Lounge",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Twirl ‘n’ Hurl",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Unfinished Shed",
+    "bonus": "2,25",
+    "characters": "1,00",
+    "boost": "0,50",
+    "value": "3,75"
+  },
+  {
+    "name": "UPA Talent Agency",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Wild West Film Set",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Worm Train",
+    "bonus": "2,50",
+    "characters": "1,00",
+    "boost": "",
+    "value": "3,50"
+  },
+  {
+    "name": "Ye Olde Off-Ramp Inn",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Zip Zap and 'Za",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Jay G Bundle",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Candy Kevin",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Brutus",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Freedom",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "King Snorky",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Mime",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Pet Mutant Seedling",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Pokey",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Raptor",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Egg Council Guy",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Formless Terror",
+    "bonus": "",
+    "characters": "",
+    "boost": "0,50",
+    "value": "0,50"
+  },
+  {
+    "name": "Star Spawn",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Vicious Monkeys",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Battling Seizure Robot",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Imaginary Bear",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Prospector",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Disco Zombie",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Squawky",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Squeaky Voice Teen",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Christmas Tree Ralph",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Number 314",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Puritan Flanders",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Sacagawea Lisa",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Sidekick Milhouse",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Three-Eyed Whale",
+    "bonus": "7,00",
+    "characters": "",
+    "boost": "",
+    "value": "7,00"
+  },
+  {
+    "name": "Cartoon Set",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Springfield Aquarium",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Barney's Bowlarama",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Ghost Pirate Airship",
+    "bonus": "5,00",
+    "characters": "1,00",
+    "boost": "",
+    "value": "6,00"
+  },
+  {
+    "name": "King Homer's Skyscraper",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Mansion of Solid Gold",
+    "bonus": "",
+    "characters": "",
+    "boost": "0,50",
+    "value": "0,50"
+  },
+  {
+    "name": "Murderhorn",
+    "bonus": "5,00",
+    "characters": "",
+    "boost": "",
+    "value": "5,00"
+  },
+  {
+    "name": "Springfield Gorge",
+    "bonus": "5,00",
+    "characters": "",
+    "boost": "",
+    "value": "5,00"
+  },
+  {
+    "name": "Radstation Air Fortress",
+    "bonus": "5,00",
+    "characters": "",
+    "boost": "",
+    "value": "5,00"
+  },
+  {
+    "name": "Donut Boat",
+    "bonus": "5,00",
+    "characters": "",
+    "boost": "",
+    "value": "5,00"
+  },
+  {
+    "name": "Giant Snow Globe",
+    "bonus": "2,25",
+    "characters": "",
+    "boost": "",
+    "value": "2,25"
+  },
+  {
+    "name": "Motherloving Sugar Co.",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Satan's Anvil",
+    "bonus": "5,00",
+    "characters": "",
+    "boost": "",
+    "value": "5,00"
+  },
+  {
+    "name": "Sepulcher of Evil",
+    "bonus": "4,00",
+    "characters": "",
+    "boost": "",
+    "value": "4,00"
+  },
+  {
+    "name": "Sleep-Eazy Motel",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Truckasaurus",
+    "bonus": "4,75",
+    "characters": "",
+    "boost": "",
+    "value": "4,75"
+  },
+  {
+    "name": "Bandit Fort",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Duff Center Arena",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Springfield Asylum",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Kamp Krusty",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Little Lisa's Recycling Plant",
+    "bonus": "",
+    "characters": "",
+    "boost": "0,50",
+    "value": "0,50"
+  },
+  {
+    "name": "Mars Colony",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Polo Field House",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Powell Motors",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "The Rad-ish Station",
+    "bonus": "5,00",
+    "characters": "",
+    "boost": "",
+    "value": "5,00"
+  },
+  {
+    "name": "Shadow Knight's Throne",
+    "bonus": "2,75",
+    "characters": "",
+    "boost": "",
+    "value": "2,75"
+  },
+  {
+    "name": "Springfield National Park",
+    "bonus": "5,00",
+    "characters": "1,00",
+    "boost": "",
+    "value": "6,00"
+  },
+  {
+    "name": "Tailgate",
+    "bonus": "4,00",
+    "characters": "",
+    "boost": "",
+    "value": "4,00"
+  },
+  {
+    "name": "Volcano Lair",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "1,00",
+    "value": "2,00"
+  },
+  {
+    "name": "Heavenly Swing Set",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "0,50",
+    "value": "1,50"
+  },
+  {
+    "name": "Duff Brewery",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Springfield Coliseum",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Concert Hall",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "La Belle Frottage",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Serfsons House",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Springfield Shopper",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Crazy Cat House",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Himeji Castle",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Lovejoy Residence",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Old Mine",
+    "bonus": "4,00",
+    "characters": "",
+    "boost": "",
+    "value": "4,00"
+  },
+  {
+    "name": "Pro-Shop",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Preparatory School",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Stu's Disco",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Ye Olde Cherry Tree",
+    "bonus": "2,75",
+    "characters": "",
+    "boost": "",
+    "value": "2,75"
+  },
+  {
+    "name": "Florence of Arabia",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "King Winter's Cave",
+    "bonus": "4,50",
+    "characters": "1,00",
+    "boost": "",
+    "value": "5,50"
+  },
+  {
+    "name": "Lugash's Gym",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Nativity Scene",
+    "bonus": "1,50",
+    "characters": "",
+    "boost": "",
+    "value": "1,50"
+  },
+  {
+    "name": "Plato's Republic Casino",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Shapes",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Tar Pits",
+    "bonus": "",
+    "characters": "1,00",
+    "boost": "",
+    "value": "1,00"
+  },
+  {
+    "name": "Castle Equalia",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": "0,00"
+  },
+  {
+    "name": "Yard Work Simulator",
+    "bonus": "3,00",
+    "characters": "1,00",
+    "boost": "",
+    "value": "4,00"
+  },
+  {
+    "name": "Pagan Bonfire",
+    "bonus": "4,50",
+    "characters": "",
+    "boost": "",
+    "value": "4,50"
+  },
+  {
+    "name": "Scary Dock",
+    "bonus": "4,50",
+    "characters": "1,00",
+    "boost": "",
+    "value": "5,50"
+  },
+  {
+    "name": "Springfield Sign",
+    "bonus": "4,50",
+    "characters": "",
+    "boost": "",
+    "value": "4,50"
+  },
+  {
+    "name": "Circle of Death",
+    "bonus": "4,50",
+    "characters": "1,00",
+    "boost": "",
+    "value": "5,50"
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  },
+  {
+    "name": "",
+    "bonus": "",
+    "characters": "",
+    "boost": "",
+    "value": 0
+  }
+]
